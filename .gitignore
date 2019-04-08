@@ -3,3 +3,5 @@
 .env
 www/*
 !www/localhost/
+!mysql/index.html
+*.log
